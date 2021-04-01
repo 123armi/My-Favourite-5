@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+    width: 100%;
+    background-color: floralwhite;
+}
+
+.welcome {
+    text-align: center;
+    margin-top: 27px;
+    width: 100%;
+}
+
+
+#style {
+    font-family: 'Nerko One', cursive;
+}
+
+.link {
+    color: #fff;
+    padding-left: 33px;
+    display: inline;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+
+}
+
+.menu {
+    font-family: sans-serif;
+    position: absolute;
+    margin-top: 0px;
+    top: 0px;
+    width: 100%;
+    z-index: 10;
+    cursor: pointer;
+
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+iframe {
+    padding: 20px;
+}
+
+#jk {
+    height: 400px;
+    width: auto;
+
+}
+
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+#contact iframe {
+    width: 100%;
+}
