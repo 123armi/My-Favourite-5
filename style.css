@@ -27,7 +27,7 @@ body {
 
 .menu {
     font-family: sans-serif;
-    position: absolute;
+    position: fixed;
     margin-top: 0px;
     top: 0px;
     width: 100%;
