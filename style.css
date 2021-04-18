@@ -1,13 +1,14 @@
 body {
     text-align: center;
     width: 100%;
-    background-color: floralwhite;
+    background-color: cyan;
 }
 
 .welcome {
     text-align: center;
     margin-top: 27px;
     width: 100%;
+    background-color: cyan;
 }
 
 
@@ -61,4 +62,28 @@ iframe {
 
 #contact iframe {
     width: 100%;
+}
+
+#books {
+    background-color: cyan;
+}
+
+#about {
+    background-color: cyan;
+}
+
+#work {
+    background-color: cyan;
+}
+
+#myCarousel {
+    background-color: cyan;
+}
+
+#contact{
+    background-color: cyan;
+}
+
+#me{
+    background-color: cyan;
 }
